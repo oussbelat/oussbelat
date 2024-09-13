@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oussama belattar</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
-<img align="right" alt="Coding" width="700"  src="https://img-s1.onedio.com/id-6240c6bf76e25ece157317aa/rev-0/w-600/h-449/f-gif/s-06007cbf780e3757f62b3fa8b206886ce9e2a226.gif">
+<img align="right" alt="Coding" width="900"  src="https://paradox.ba/paradox/wp-content/uploads/2019/10/4paradox-animation-min.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oussbelat" alt="oussbelat" /></a> </p>
 
